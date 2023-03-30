@@ -5,7 +5,7 @@
 ![contributors](https://img.shields.io/github/contributors/nsikakabasieumoh/dj4e)
 ![codesize](https://img.shields.io/github/languages/code-size/nsikakabasieumoh/dj4e)
 
-This repository contains my lessons learnt and functions ran during my study of Django for Everybody by Chuck Severance
+This repository contains my lessons learnt and functions ran during my study of [Django for Everybody by Chuck Severance](https://youtu.be/KH_-vhsfxjg?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
 
 ## Installation and Setup
 
