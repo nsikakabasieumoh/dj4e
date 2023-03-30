@@ -23,12 +23,8 @@ In this section, I will outline the resources used for this in project.
 ## Code Structure
 
 ```bash
-├── files
-│   ├── mbox-short.txt
-├── files
+├── topics
 │   ├── __pycache__
-│   ├── __init__.py
-│   └── functions.py
 ├── virtual (venv)
 ├── LICENSE
 ├── README.md
