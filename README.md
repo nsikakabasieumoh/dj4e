@@ -18,7 +18,7 @@ In this section, I will outline the resources used for this in project.
 
 ## Python Packages Used
 
-- **General Purpose:** General purpose packages like `socket`,
+- **General Purpose:** General purpose packages like `socket`.
 
 ## Code Structure
 
